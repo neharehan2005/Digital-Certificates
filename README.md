@@ -14,3 +14,4 @@ The certificates reflect my continuous learning and skill development in areas s
 * AI and technology-related achievements
 
 This repository serves as a portfolio of my learning journey and professional development.
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/7baa95d1-acd7-46a7-bfd0-70f2df1689b7" />
