@@ -13,5 +13,10 @@ The certificates reflect my continuous learning and skill development in areas s
 * Cybersecurity and technical certifications
 * AI and technology-related achievements
 
+**Credly Badges:**
+**https://www.credly.com/users/neha-rehan/edit/badges/credly**
+
 This repository serves as a portfolio of my learning journey and professional development.
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/7baa95d1-acd7-46a7-bfd0-70f2df1689b7" />
+
+<img width="1281" height="572" alt="image" src="https://github.com/user-attachments/assets/1ee0cdbd-c255-4ae4-a1c0-2f8395ad1859" />
+
